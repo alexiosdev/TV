@@ -3,14 +3,14 @@
 		"questions": [{
 		"id": 1,
 			"title": "Sắp xếp các từ sau",
-			"type": "1",
+			"type": 1,
 			"q": "ồ/n/b/m/l/â",
 			"answer": "lâm bồn",
 			"explain": "chỉ phụ nữ trở dạ, sinh đẻ"
 		},{
 		"id": 2,
 			"title": "Sắp xếp các từ sau",
-			"type": "1",
+			"type": 1,
 			"q": "i/â/ễ/y/l/h/n/m",
 			"answer": "lây nhiễm",
 			"explain": "nhiễm bệnh do bị lây từ người khác"
