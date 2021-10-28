@@ -1,19 +1,40 @@
 {
 	"data": {
 		"questions": [{
-		"id": 1,
+			"id": 1,
 			"title": "Sắp xếp các từ sau",
 			"type": 1,
 			"q": "ồ/n/b/m/l/â",
 			"answer": "lâm bồn",
 			"explain": "chỉ phụ nữ trở dạ, sinh đẻ"
-		},{
-		"id": 2,
+		}, {
+			"id": 2,
 			"title": "Sắp xếp các từ sau",
 			"type": 1,
 			"q": "i/â/ễ/y/l/h/n/m",
 			"answer": "lây nhiễm",
 			"explain": "nhiễm bệnh do bị lây từ người khác"
+		}, {
+			"id": 2,
+			"title": "Sắp xếp các từ sau",
+			"type": 1,
+			"q": "t/n/g/a/ờ/ư/s/r",
+			"answer": "sa trường",
+			"explain": "thường dùng để chỉ chiến trường"
+		}, {
+			"id": 2,
+			"title": "Sắp xếp các từ sau",
+			"type": 1,
+			"q": "m/à/s/i/ọ/g",
+			"answer": "già sọm",
+			"explain": "gầy, già yếu, hom hem"
+		}, {
+			"id": 2,
+			"title": "Sắp xếp các từ sau",
+			"type": 1,
+			"q": "ồ/n/n/đ/l/g/e/đ",
+			"answer": "lồng đèn",
+			"explain": "Thứ hộp có nhiều mặt kính, để đặt đèn vào xách đi"
 		}]
 	}
 }
