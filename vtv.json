@@ -35,6 +35,34 @@
 			"q": "ồ/n/n/đ/l/g/è",
 			"answer": "lồng đèn",
 			"explain": "Thứ hộp có nhiều mặt kính, để đặt đèn vào xách đi"
+		}, {
+			"id": 6,
+			"title": "Chọn từ viết đúng chính tả",
+			"type": 2,
+			"q": "sáng lạn/xán lạn/sáng lạng/sán lạn",
+			"answer": "xán lạn",
+			"explain": "\"Xán\" là \"rực rỡ\", \"lạn\" là \"sáng sủa\". Kết hợp lại, xán lạn có nghĩa là tươi sáng rực rỡ"
+		}, {
+			"id": 7,
+			"title": "Chọn từ viết đúng chính tả",
+			"type": 2,
+			"q": "sơ suất/sơ xuất",
+			"answer": "sơ xuất",
+			"explain": "nghĩa là phần thiếu sót nhỏ, không cẩn thận, không chú ý đúng mức để có sai sót: Sơ xuất trong phong cách nói chuyện"
+		}, {
+			"id": 8,
+			"title": "Sắp xếp các từ sau",
+			"type": 3,
+			"q": "hướng/ăn/hướng/trông/nồi/ngồi/trông",
+			"answer": "ăn trông nồi ngồi trông hướng",
+			"explain": ""
+		}, {
+			"id": 9,
+			"title": "Sắp xếp các từ sau",
+			"type": 3,
+			"q": "một/của/công/nén/đồng/một",
+			"answer": "của một đồng công một nén",
+			"explain": ""
 		}]
 	}
 }
