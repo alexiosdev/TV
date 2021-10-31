@@ -53,7 +53,7 @@
 			"id": 8,
 			"title": "Sắp xếp các từ sau",
 			"type": 3,
-			"q": "hướng/ăn/hướng/trông/nồi/ngồi/trông",
+			"q": "hướng/ăn/trông/nồi/ngồi/trông",
 			"answer": "ăn trông nồi ngồi trông hướng",
 			"explain": ""
 		}, {
