@@ -63,6 +63,188 @@
 			"q": "một/của/công/nén/đồng/một",
 			"answer": "của một đồng công một nén",
 			"explain": ""
+		}, {
+			"id": 10,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ụ/ấ/n/c/t/c",
+			"answer": "nấc cụt ",
+			"explain": "nấc thành những tiếng ngắn liên tiếp."
+		}, {
+			"id": 11,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "n/ặ/c/h/d/a/n",
+			"answer": "nặc danh ",
+			"explain": "Giấu tên. Thư nặc danh."
+		}, {
+			"id": 12,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "n/a/ư/g/n/i/l",
+			"answer": "nai lưng ",
+			"explain": "Đem hết sức ra mà làm hay chịu đựng. Nai lưng mà chịu. Nai lưng làm việc."
+		}, {
+			"id": 13,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ỉ/n/à/i/n",
+			"answer": "nài nỉ ",
+			"explain": "Cố xin, cố mời. Nài nỉ mãi hắn mới đồng ý."
+		}, {
+			"id": 14,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "h/m/i/ê/g/p/o/n/n",
+			"answer": "niêm phong ",
+			"explain": "Đóng kín lại và dán giấy có dấu của chính quyền: Ngôi nhà đó đã bị niêm phong."
+		}, {
+			"id": 15,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "y/ê/n/m/ế/i/t",
+			"answer": "niêm yết ",
+			"explain": "Dán lên để báo việc gì cho công chúng : Niêm yết thông cáo"
+		}, {
+			"id": 16,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ạ/n/ê/i/đ/n/i",
+			"answer": "niên đại ",
+			"explain": "Thời đại, năm tháng trong lịch sử : Niên đại văn hóa đồ đá cũ ; Niên đại đồ đồng thau"
+		}, {
+			"id": 17,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "a/i/n/ó/ê/n/h/k",
+			"answer": "niên khóa ",
+			"explain": "Thời gian học hết một lớp: Niên khóa bắt đầu từ tháng Chín và kết thúc vào tháng Sáu năm sau."
+		}, {
+			"id": 18,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ế/i/n/ê/h/n/t/i/u",
+			"answer": "niên thiếu ",
+			"explain": "ít tuổi, trẻ tuổi: Thời niên thiếu."
+		}, {
+			"id": 19,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "g/í/ặ/n/n/n/l",
+			"answer": "nín lặng ",
+			"explain": "Im lặng, không nói, không để nghe tiếng gì cả. Cả hội trường nín lặng."
+		}, {
+			"id": 20,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "í/n/n/n/ị/h/n",
+			"answer": "nín nhịn ",
+			"explain": "Im mà chịu đựng, không phản ứng, không chống đối. Nín nhịn lâu rồi, không chịu đựng được nữa."
+		}, {
+			"id": 21,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "b/n/ị/h/ợ/n",
+			"answer": "nịnh bợ ",
+			"explain": "Nịnh và hạ mình. Quen thói cúi luồn nịnh bợ."
+		}, {
+			"id": 22,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "é/c/c/á/p/h",
+			"answer": "cá chép ",
+			"explain": "Cá nước ngọt thân dày, lưng cao và thường có màu sẫm, lườn và bụng trắng, vảy to, vây và đuôi rộng."
+		}, {
+			"id": 23,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "đ/ế/g/t/h/i/c/ế/n",
+			"answer": "chết điếng ",
+			"explain": "Mất cảm giác toàn thân vì quá đau đớn về vật chất hay tinh thần. Hắn bị giáng một đòn chết điếng. Tin ấy làm anh chết điếng cả người."
+		}, {
+			"id": 24,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ế/ố/đ/i/u/h/c/t",
+			"answer": "chết đuối ",
+			"explain": "Chết vì ngạt dưới nước."
+		}, {
+			"id": 25,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "i/c/đ/ộ/h/i",
+			"answer": "chi đội ",
+			"explain": "Đơn vị của lực lượng vũ trang Việt Nam trong thời kỳ và sau cách mạng Tháng Tám tương đương một tiểu đoàn hay trung đoàn"
+		}, {
+			"id": 26,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ớ/n/h/g/c/h/í/ư",
+			"answer": "chí hướng ",
+			"explain": "Ý muốn bền bỉ quyết đạt tới một mục tiêu cao đẹp trong cuộc sống. Cùng theo đuổi một chí hướng. Một thanh niên có chí hướng."
+		}, {
+			"id": 27,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "h/ạ/g/c/n/m/í",
+			"answer": "chí mạng ",
+			"explain": "Nguy hiểm đến tính mạng. Giáng cho một đòn chí mạng. Cũng nói Trí mạng."
+		}, {
+			"id": 28,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "o/n/à/i/đ/g/i",
+			"answer": "đi ngoài ",
+			"explain": "Đi đại tiện."
+		}, {
+			"id": 29,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "à/ị/đ/n/b/a",
+			"answer": "địa bàn ",
+			"explain": "Khu vực địa phương liên hệ với một hoạt động. Mở rộng địa bàn hoạt động"
+		}, {
+			"id": 30,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "a/o/ị/ạ/đ/đ",
+			"answer": "địa đạo ",
+			"explain": "Đường hầm bí mật, đào ngầm sâu dưới đất; hào ngầm"
+		}, {
+			"id": 31,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "m/đ/ể/đ/ị/i/a",
+			"answer": "địa điểm ",
+			"explain": "Nơi chốn cụ thể xảy ra một sự việc nào đó: có mặt tại địa điểm quy định tìm một địa điểm thích hợp một địa điểm chiến lược quan trọng."
+		}, {
+			"id": 32,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "ị/a/n/a/l/đ",
+			"answer": "địa lan ",
+			"explain": "nhóm cây hoa, họ Lan"
+		}, {
+			"id": 33,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "đ/a/p/h/ủ/ị",
+			"answer": "địa phủ ",
+			"explain": "Như Âm phủ."
+		}, {
+			"id": 34,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "n/i/s/ị/đ/a/h",
+			"answer": "địa sinh ",
+			"explain": "Phát triển trong đất. Rễ là cơ quan địa sinh của cây"
+		}, {
+			"id": 35,
+			"title": "Sắp xếp các từ sau",
+			"type:": 1,
+			"q": "m/b/ẫ/y/ạ/c",
+			"answer": "cạm bẫy ",
+			"explain": "Cạm và bẫy; cách bố trí để lừa người ta. Đề nghị ấy chỉ là một cạm bẫy."
 		}]
 	}
 }
