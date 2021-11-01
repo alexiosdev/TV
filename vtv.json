@@ -413,6 +413,118 @@
 			"q": "c/ú/t/h/h/c/í/h",
 			"answer": "chú thích ",
 			"explain": "lời giải thích ngắn gọn ở một chỗ cụ thể trong văn bản chính hoặc văn bản phụ"
+		}, {
+			"id": 60,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "bạc mạng/bạt mạng",
+			"answer": "bạt mạng",
+			"explain": "liều lĩnh, bất chấp tính mạng (khẩu ngữ)."
+		}, {
+			"id": 61,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "chính chắn/chín chắn",
+			"answer": "chín chắn",
+			"explain": "thận trọng, đứng đắn"
+		}, {
+			"id": 62,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "chỉnh chu/chỉn chu",
+			"answer": "chỉn chu",
+			"explain": "chu đáo, cẩn thận (ăn mặc chỉn chu)"
+		}, {
+			"id": 63,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "chua sót/chua xót",
+			"answer": "chua xót",
+			"explain": "xót xa, đau đớn một cách thấm thía."
+		}, {
+			"id": 64,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "chuẩn đoán/chẩn đoán",
+			"answer": "chẩn đoán",
+			"explain": "có nghĩa là xác định bệnh, dựa theo triệu chứng và kết quả xét nghiệm."
+		}, {
+			"id": 65,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "cọ sát/cọ xát",
+			"answer": "cọ xát",
+			"explain": "cọ đi cọ lại, xát vào nhau; tiếp xúc, thử thách trong những hoàn cảnh, môi trường khó khăn và đa dạng."
+		}, {
+			"id": 66,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "dành giật/giành giật",
+			"answer": "giành giật",
+			"explain": "tranh cướp, cướp đoạt"
+		}, {
+			"id": 67,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "dấu diếm/giấu giếm",
+			"answer": "giấu giếm",
+			"explain": "(động từ) dấu: 1. yêu (yêu dấu), 2. vết (dấu vết); giấu: cất, không cho ai biết >> giấu giếm: cất đi, giữ kín không cho ai biết."
+		}, {
+			"id": 68,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "dè xẻn/dè sẻn",
+			"answer": "dè sẻn",
+			"explain": "(động từ) dè: dành để, kiêng nể; sẻn: hà tiện quá, chặt chẽ quá >> dè sẻn: tằn tiện, tự hạn chế chi dùng quá mức."
+		}, {
+			"id": 69,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "đề huề/đuề huề",
+			"answer": "đề huề",
+			"explain": "ghĩa cũ là nắm tay nhau dắt đi, cùng nhau làm việc, giúp đỡ nhau, ngày nay ta còn hiểu là đông đủ vui vẻ cả."
+		}, {
+			"id": 70,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "điểm xuyến/điểm xuyết",
+			"answer": "điểm xuyết",
+			"explain": "(động từ) điểm: chấm nhỏ, vết nhỏ; xuyết: trang điểm, tô điểm >> điểm xuyết: sửa sang, tô vẽ cho thêm đẹp."
+		}, {
+			"id": 71,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "đường xá/đường sá",
+			"answer": "đường sá",
+			"explain": "đường đi lại trên bộ"
+		}, {
+			"id": 72,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "hàm xúc/hàm súc",
+			"answer": "hàm súc",
+			"explain": "cô đọng, ngắn gọn nhưng chứa nhiều ý tứ sâu sắc."
+		}, {
+			"id": 73,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "lãng mạng/lãng mạn",
+			"answer": "lãng mạn",
+			"explain": "lãng: bát ngát; mạn: dài rộng, mênh mông >> lãng mạn là từ chuyển nghĩa, nghĩa là lí tưởng hoá hiện thực, vượt lên trên hiện thực."
+		}, {
+			"id": 74,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "phố sá/phố xá",
+			"answer": "phố xá",
+			"explain": "phố có các hàng quán."
+		}, {
+			"id": 75,
+			"title": "Chọn từ viết đúng chính tả",
+			"type:": 2,
+			"q": "xoay sở/xoay xở",
+			"answer": "xoay xở",
+			"explain": "làm hết cách này đến cách khác để giải quyết vấn đề. Xoay sở là cách viết sai chính tả của xoay xở."
 		}]
 	}
 }
